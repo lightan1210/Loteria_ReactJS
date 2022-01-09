@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Loteria_ReactJS/static/css/main.c14128ac.css",
+    "main.js": "/Loteria_ReactJS/static/js/main.ade32886.js",
+    "static/js/787.17d57f61.chunk.js": "/Loteria_ReactJS/static/js/787.17d57f61.chunk.js",
+    "index.html": "/Loteria_ReactJS/index.html",
+    "main.c14128ac.css.map": "/Loteria_ReactJS/static/css/main.c14128ac.css.map",
+    "main.ade32886.js.map": "/Loteria_ReactJS/static/js/main.ade32886.js.map",
+    "787.17d57f61.chunk.js.map": "/Loteria_ReactJS/static/js/787.17d57f61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c14128ac.css",
+    "static/js/main.ade32886.js"
+  ]
+}
