@@ -1,0 +1,29 @@
+.ball {
+	width: 300px;
+	height: 300px;
+	margin: 30px auto;
+	border-radius: 50%;
+    background: #1313a7;
+    box-shadow: inset 0px 0px 50px;
+}
+
+.texto {
+    position:relative;
+    top: 75px;
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    color: white;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    font-size: 50px;
+}
+/*animation: rotacion 1s linear infinite;
+
+@keyframes rotacion {
+    from {transform: rotateY(0deg); transform-origin: 150px 150px 150px;}
+    to {transform: rotateY(360deg); transform-origin: 150px 150px 150px;}
+  }*/
